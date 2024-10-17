@@ -27,6 +27,7 @@ go get -u github.com/miguelmota/go-ethereum-hdwallet
 [https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet](https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet)
 
 ## Getting started
+Yes, it's go HD wallet.
 
 ```go
 package main
